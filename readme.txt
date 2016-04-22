@@ -14,7 +14,7 @@ Creates widgets that display excerpts from posts or pages in the sidebar.
 
 Creates widgets that display excerpts from posts or pages in the sidebar. You may use 'more' links and/or link the widget title to the post or page.  Requires <a href="http://blog.ftwr.co.uk/wordpress/page-excerpt/">Page Excerpt</a> or <a href="http://www.laptoptips.ca/projects/wordpress-excerpt-editor/">Excerpt Editor</a> for page excerpts. Supports <a href="http://robsnotebook.com/the-excerpt-reloaded/">the_excerpt Reloaded</a> and <a href="http://sparepencil.com/code/advanced-excerpt/">Advanced Excerpt</a>.
 
-Versions 2.0 and up require WordPress 2.8. If you are using WordPress 2.3 through 2.7.1, you should use <a href="http://downloads.wordpress.org/plugin/post-and-page-excerpt-widgets.1.2.zip">version 1.2</a> of this plugin instead.
+Now on <a href="https://github.com/sillybean/Post-and-Page-Excerpt-Widgets">GitHub</a>.
 
 == Installation ==
 
@@ -32,6 +32,7 @@ Go to Design &rarr; Widgets to add widgets to your sidebar in widget-ready theme
 = 2.2 =
 * Total refactoring and update.
 * Internationalization.
+* <a href="https://github.com/sillybean/Post-and-Page-Excerpt-Widgets">GitHub</a>.
 = 2.1 =
 * Bug fixed: 'more' text not showing up in some cases
 * Bug fixed: excerpt & 'more' link showing the wrong page when using more than one page widget
